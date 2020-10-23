@@ -1,4 +1,3 @@
-
 if __name__ == "__main__":
     alphabet    =   "abcdefghijklmnopqrstuvwxyzab"
     txt         =   "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. "\
